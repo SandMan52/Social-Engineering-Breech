@@ -11,7 +11,6 @@
 <p><h3>Original Image</h3><img align="left" src="https://github.com/SandMan52/Social-Engineering-Breech/blob/main/TeamViewer%20Obfusication%20Employed.png" alt="Original Obfuscation Technique" width="350" height="350"><h3>Researched Image</h3><img align="right" src="https://github.com/SandMan52/Social-Engineering-Breech/blob/main/Privacy%20Screansaver%20Used%20for%20Obfuscation.jpg" alt="Researched Obfuscation Technique" width="350" height="350"/></p>
   </div>
 <div>
-  <hr>
 <h2>Some of the  I was able to determine that a customers card was compromised in the process due to it being  . Notified additonal victim of situation. The IC3 complaint never materialized with any results that I was made aware of. Remedial cyber security and awareness training was conducted with the staff of that establishment. Additionally, all parties that were indirectly compromised were notified before sginificant harm occured.</h2>
 </div>
 </div>
