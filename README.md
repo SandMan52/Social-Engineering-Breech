@@ -16,4 +16,5 @@
 <div>
 <h2>Additonally, there was no lateral movement, an offline antivirus scan was completed on the breached PC with negative results, and remedial cyber security awareness training was conducted with the staff. All parties that were indirectly compromised were notified before significant harm occured.</h2>
 </div>
+  <div>[Audio of victim talking with the suspect - ]</div>
 </div>
