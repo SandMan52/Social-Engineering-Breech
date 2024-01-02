@@ -10,5 +10,10 @@
   <div>
 <img align="left" src="https://github.com/SandMan52/Social-Engineering-Breech/blob/main/TeamViewer%20Obfusication%20Employed.png" alt="Original Obfuscation Technique" width="400" height="350"><img align="center" src="https://github.com/SandMan52/Social-Engineering-Breech/blob/main/Privacy%20Screansaver%20Used%20for%20Obfuscation.jpg" alt="Researched Obfuscation Technique" width="400" height="350">
   </div>
-<div><h2>Some of the  I was able to determine that a customers card was compromised in the process due to it being  . Notified additonal victim of situation. The IC3 complaint never materialized with any results that I was made aware of. Remedial cyber security and awareness training was conducted with the staff of that establishment. Additionally, all parties that were indirectly compromised were notified before sginificant harm occured.</h2></div>
+<div>
+  <h2>The next step was to investigate the suspects steps through event logs, browser, and email history. I was able to confirm the attacker sent various docs to his email via the business's email. The suspect was able to obtain a customers card that was pre-filled out on an electronic document. The additonal victim was notified. I conducted email header analysis of the corespondance with little to know success. I promptly filed a IC3 complaint that never materialized with any known results. [IC3 Complaint - ]([https://github.com/SandMan52/Social-Engineering-Breech](https://github.com/SandMan52/Social-Engineering-Breech/blob/main/Victims%20Original%20Statement%20-%20Redacted.pdf)</h2>
+</div>
+<div>
+Additonally, and offline antivirus scan was completed on the breached PC, there was no lateral movement, and remedial cyber security awareness training was conducted with the staff of that establishment. All parties that were indirectly compromised were notified before sginificant harm occured.</h2>
+</div>
 </div>
