@@ -7,7 +7,7 @@
 <div>
 <h2>Once the time-line of events had been established and verfied by the security camera footage with the victims written & verbal statements. I conducted in-depth research of tools used and the severity of the breech through system logs and obvious footprints left behind by the suspect. The first item I investigated was the obfuscation technique deployed by the suspect. The security camera footage was extremly blurry, so I conducted a Google querry for posible matches and was able to locate the technique through a popular remote access tool called TeamViewer.</h2>
   <div>
-<img align="left" src="https://github.com/SandMan52/Social-Engineering-Breech/blob/main/TeamViewer%20Obfusication%20Employed.png" alt="Original Obfuscation Technique" width="350" height="350"><img align="right" src="https://github.com/SandMan52/Social-Engineering-Breech/blob/main/Privacy%20Screansaver%20Used%20for%20Obfuscation.jpg" alt="Researched Obfuscation Technique" width="350" height="350"/>
+<h3><img align="left" src="https://github.com/SandMan52/Social-Engineering-Breech/blob/main/TeamViewer%20Obfusication%20Employed.png" alt="Original Obfuscation Technique" width="350" height="350"><img align="right" src="https://github.com/SandMan52/Social-Engineering-Breech/blob/main/Privacy%20Screansaver%20Used%20for%20Obfuscation.jpg" alt="Researched Obfuscation Technique" width="350" height="350"/></h3>
   </div>
 </div>
 <div>
