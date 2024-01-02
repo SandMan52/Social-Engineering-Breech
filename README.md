@@ -1,7 +1,7 @@
 # Social Engineering Attack
 <div>
 <div>
-<h1>Brief Synopsis of one of the many incidents that I had the pleasure to respond, investigate, and remediate.</h1> 
+<h1>Brief Synopsis:</h1> 
 <h2>I received a call from the manager of the hotel, stating that the new night shift auditer was contacted by the hotel brand's help desk to allow entry into the front desk computer to conduct updates. I promptly advised the manager to isolate the end point from the network than responded to the site, reviewed security camera footage, and made contact with the victim. I instructed the victim to write a chronological statement of events. [Victim's Statement - ]([https://github.com/SandMan52/Social-Engineering-Breech](https://github.com/SandMan52/Social-Engineering-Breech/blob/main/Victims%20Original%20Statement%20-%20Redacted.pdf)</h2>
 </div>
 <div>
