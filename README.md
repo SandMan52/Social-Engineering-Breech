@@ -14,7 +14,7 @@
   <h2>The next step was to investigate the suspects steps through event logs, browser, and email history. I was able to confirm the attacker sent various docs to his email via the business's email. The suspect was able to obtain a customers card that was pre-filled out on an electronic document. The additonal victim was notified. I conducted email header analysis of the corespondance with little to know success. I promptly filed a IC3 complaint that did not materialized with any known results. [IC3 Complaint - ](https://github.com/SandMan52/Social-Engineering-Breech/blob/main/Internet%20Crime%20Complaint%20-%20Redacted.pdf)</h2>
 </div>
 <div>
-<h2>Additonally, there was no lateral movement, an offline antivirus scan was completed on the breached PC with negative results, and remedial cyber security awareness training was conducted with the staff. All parties that were indirectly compromised were notified before significant harm occured.</h2>
+<h2>Additonally, this appears to be an impersonation attack where the suspect had little knowledge of advanced hacking tools. There was no lateral movement, an offline antivirus scan was completed on the breached PC with negative results, and remedial cyber security awareness training was conducted with the staff. All parties that were indirectly compromised were notified before significant harm occured.</h2>
 </div>
   <div>
     <h2>[Audio of victim talking with the suspect - ](https://github.com/SandMan52/Social-Engineering-Breech/blob/main/Social%20Engineering%20Audio%20File.mp4)</h2>
